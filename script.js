@@ -1,4 +1,4 @@
 
-let yourArray = ['apple', 42, true, null, 'hello world'];
-JSON.stringify(yourArray);
-let temp= JSON.parse(yourArray);
+let Array = ['apple', 42, true, null, 'hello world'];
+JSON.stringify(Array);
+let yourArray= JSON.parse(Array);
